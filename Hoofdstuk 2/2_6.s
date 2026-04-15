@@ -1,0 +1,1 @@
+       LDR     R0, =1234 ; Laad de waarde 1234 in R0
